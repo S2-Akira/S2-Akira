@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S2-Akira
-- 👀 I’m interested in collaberting in grey/white hat tools 
+- 👀 I’m interested in collaberting in grey/white hat tools or any js/python software
 - 🌱 I’m currently learning c++ and c# 
 - 📫 How to reach me  nw.excavator885@passinbox.com
 - ⚡ Fun fact: I only made this because i am tired
