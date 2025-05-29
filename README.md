@@ -1,7 +1,7 @@
 # Hi, I'm Akira 👋
 
 ## About Me
-- Cybersecurity enthusiast & ethical hacker
+- Cybersecurity enthusiast 
 - Passionate about network security, pentesting, and offensive security tools
 - Currently learning C++ and C#
 - Experienced with Python and JavaScript
